@@ -1,0 +1,130 @@
+Show Diff body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand img {
+    width: 250px;
+    height: 130px;
+    margin: 3px;
+    margin-left: 60px;
+}
+
+.card {
+    margin-bottom: 20px;
+    border-color: #E21B70;
+    border-radius: 10px;
+}
+
+.nav-link1 {
+    margin-left: 1350px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #E21B70;
+}
+
+.nav-item {
+    color: #E21B70;
+}
+
+.nav-link {
+    margin-left: 60px;
+    margin-top: -9px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #E21B70;
+}
+
+.card img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    color: #E21B70;
+}
+
+.form-group {
+    padding: 10px;
+    width: 40%;
+    text-align: center;
+    font-size: 40px;
+    color: #E21B70;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 14px;
+    color: #666;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    padding: 7px;
+    font-size: 14px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+    max-width: 95%;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.container1 {
+    max-width: 95%;
+    margin: 40px auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+
+.btn-primary {
+    color: #ede8e8;
+    background-color: #E21B70;
+    border-color: #E21B70;
+}
+
+a {
+    color: #614d4d;
+    text-decoration: solid;
+    background-color: transparent;
+    -webkit-text-decoration-skip: revert-layer;
+}
+
+.link {
+    color: black;
+    font-size: large;
+}
+
+.othercountries {
+    font-size: large;
+    color: #E21B70;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #595f6514
+}
